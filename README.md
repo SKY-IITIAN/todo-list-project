@@ -20,7 +20,7 @@ This is my first front-end project as part of my learning journey in web develop
 - CSS3
 
 ## 🔗 Live Demo
-[👉 View the Live Site](https://todosouravkumar.ccbp.tech/)
+[👉 View the Live Site]()
 
 ## 💻 GitHub Repository
 You're already here! 🎉  
